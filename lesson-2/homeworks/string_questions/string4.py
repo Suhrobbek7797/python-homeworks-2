@@ -10,4 +10,4 @@ else:
 # This text is palindrome
 2
 # Enter Text: Sukhrobbek
-# This text isn't palindrome
+# This text isn't palindrome 
